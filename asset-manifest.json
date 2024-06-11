@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/new-portfolio/static/css/main.b35403de.chunk.css",
+    "main.js": "/new-portfolio/static/js/main.794b2214.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.794b2214.chunk.js.map",
+    "runtime-main.js": "/new-portfolio/static/js/runtime-main.b7e71cf4.js",
+    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.b7e71cf4.js.map",
+    "static/css/2.5af2ad10.chunk.css": "/new-portfolio/static/css/2.5af2ad10.chunk.css",
+    "static/js/2.bf8cec0b.chunk.js": "/new-portfolio/static/js/2.bf8cec0b.chunk.js",
+    "static/js/2.bf8cec0b.chunk.js.map": "/new-portfolio/static/js/2.bf8cec0b.chunk.js.map",
+    "index.html": "/new-portfolio/index.html",
+    "static/css/2.5af2ad10.chunk.css.map": "/new-portfolio/static/css/2.5af2ad10.chunk.css.map",
+    "static/css/main.b35403de.chunk.css.map": "/new-portfolio/static/css/main.b35403de.chunk.css.map",
+    "static/js/2.bf8cec0b.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.bf8cec0b.chunk.js.LICENSE.txt",
+    "static/media/Imran_Resume.1ff21a8f.pdf": "/new-portfolio/static/media/Imran_Resume.1ff21a8f.pdf",
+    "static/media/coast.54b1b992.jpg": "/new-portfolio/static/media/coast.54b1b992.jpg",
+    "static/media/cosmos.19ad0934.jpg": "/new-portfolio/static/media/cosmos.19ad0934.jpg",
+    "static/media/developer.23e159be.jpg": "/new-portfolio/static/media/developer.23e159be.jpg",
+    "static/media/dropship.b52fa0a1.jpg": "/new-portfolio/static/media/dropship.b52fa0a1.jpg",
+    "static/media/event-spa.eb3b49ae.png": "/new-portfolio/static/media/event-spa.eb3b49ae.png",
+    "static/media/goodFoodDiscounts.9b9dd889.png": "/new-portfolio/static/media/goodFoodDiscounts.9b9dd889.png",
+    "static/media/hsp.40c6e624.png": "/new-portfolio/static/media/hsp.40c6e624.png",
+    "static/media/imran.79221c05.jpg": "/new-portfolio/static/media/imran.79221c05.jpg",
+    "static/media/loan-calculator.cfe98632.png": "/new-portfolio/static/media/loan-calculator.cfe98632.png",
+    "static/media/spa.84da87e3.png": "/new-portfolio/static/media/spa.84da87e3.png",
+    "static/media/techspec.3b34aad0.png": "/new-portfolio/static/media/techspec.3b34aad0.png",
+    "static/media/travelwell.772033dc.png": "/new-portfolio/static/media/travelwell.772033dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7e71cf4.js",
+    "static/css/2.5af2ad10.chunk.css",
+    "static/js/2.bf8cec0b.chunk.js",
+    "static/css/main.b35403de.chunk.css",
+    "static/js/main.794b2214.chunk.js"
+  ]
+}
