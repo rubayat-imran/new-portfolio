@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b35403de.chunk.css",
-    "main.js": "/static/js/main.794b2214.chunk.js",
-    "main.js.map": "/static/js/main.794b2214.chunk.js.map",
+    "main.css": "/static/css/main.7ea13585.chunk.css",
+    "main.js": "/static/js/main.d58c86bc.chunk.js",
+    "main.js.map": "/static/js/main.d58c86bc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.623e4f27.js",
     "runtime-main.js.map": "/static/js/runtime-main.623e4f27.js.map",
     "static/css/2.5af2ad10.chunk.css": "/static/css/2.5af2ad10.chunk.css",
@@ -10,27 +10,20 @@
     "static/js/2.bf8cec0b.chunk.js.map": "/static/js/2.bf8cec0b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.5af2ad10.chunk.css.map": "/static/css/2.5af2ad10.chunk.css.map",
-    "static/css/main.b35403de.chunk.css.map": "/static/css/main.b35403de.chunk.css.map",
+    "static/css/main.7ea13585.chunk.css.map": "/static/css/main.7ea13585.chunk.css.map",
     "static/js/2.bf8cec0b.chunk.js.LICENSE.txt": "/static/js/2.bf8cec0b.chunk.js.LICENSE.txt",
     "static/media/Imran_Resume.1ff21a8f.pdf": "/static/media/Imran_Resume.1ff21a8f.pdf",
-    "static/media/coast.54b1b992.jpg": "/static/media/coast.54b1b992.jpg",
-    "static/media/cosmos.19ad0934.jpg": "/static/media/cosmos.19ad0934.jpg",
-    "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
-    "static/media/dropship.b52fa0a1.jpg": "/static/media/dropship.b52fa0a1.jpg",
+    "static/media/developer.175b38ce.jpg": "/static/media/developer.175b38ce.jpg",
     "static/media/event-spa.eb3b49ae.png": "/static/media/event-spa.eb3b49ae.png",
-    "static/media/goodFoodDiscounts.9b9dd889.png": "/static/media/goodFoodDiscounts.9b9dd889.png",
-    "static/media/hsp.40c6e624.png": "/static/media/hsp.40c6e624.png",
     "static/media/imran.79221c05.jpg": "/static/media/imran.79221c05.jpg",
     "static/media/loan-calculator.cfe98632.png": "/static/media/loan-calculator.cfe98632.png",
-    "static/media/spa.84da87e3.png": "/static/media/spa.84da87e3.png",
-    "static/media/techspec.3b34aad0.png": "/static/media/techspec.3b34aad0.png",
-    "static/media/travelwell.772033dc.png": "/static/media/travelwell.772033dc.png"
+    "static/media/spa.84da87e3.png": "/static/media/spa.84da87e3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.623e4f27.js",
     "static/css/2.5af2ad10.chunk.css",
     "static/js/2.bf8cec0b.chunk.js",
-    "static/css/main.b35403de.chunk.css",
-    "static/js/main.794b2214.chunk.js"
+    "static/css/main.7ea13585.chunk.css",
+    "static/js/main.d58c86bc.chunk.js"
   ]
 }
