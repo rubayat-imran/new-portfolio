@@ -1,6 +1,6 @@
 import { Col } from "react-bootstrap";
 import Techstack from "./Techstack";
-import { SKILLS, TOOLS } from "../../Constants";
+import { SKILLS } from "../../Constants";
 
 function AboutSkills() {
   return (

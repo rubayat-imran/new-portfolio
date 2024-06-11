@@ -10,28 +10,27 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rubayat Imran </span>
             from <span className="purple"> Dhaka, Bangladesh.</span>
             <br />
-            Software Engineer who loves to transform ideas into reality using
-            code.
+            I'm a Software Engineer who loves turning ideas into reality with code. I’ve got a good bit of experience creating custom websites using ReactJs, Redux, JavaScript, TypeScript, jQuery, HTML5, and CSS3.
             <br />
-            Motivated developer with experience creating
-            custom websites with ReactJs, JavaScript, HTML5, CSS3.
+            I enjoy learning new things and keeping up with the latest in technology. My goal is always to deliver high-quality and efficient solutions that make a difference.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul className="activity-list">
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Reading books
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Exploring new places
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Playing sports
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching Movies
+              <ImPointRight /> Listening to music
             </li>
           </ul>
+          <p style={{ textAlign: "justify" }}>These activities help me stay balanced and bring a fresh perspective to my work.</p>
         </blockquote>
       </Card.Body>
     </Card>

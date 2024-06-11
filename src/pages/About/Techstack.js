@@ -1,5 +1,5 @@
 import React from "react";
-import Rating from "react-rating"
+import Rating from "react-rating";
 
 function Techstack(props) {
   return (

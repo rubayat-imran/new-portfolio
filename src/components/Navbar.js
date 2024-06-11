@@ -34,7 +34,7 @@ function NavBar() {
       expand="md"
       className={navColour ? "sticky" : "navbar"}
     >
-      <Container>
+      <Container className="navbar-inner">
         <Navbar.Brand href="/">
           <MdDeveloperMode style={{ marginBottom: "2px" }} /> Rubayat Imran
         </Navbar.Brand>

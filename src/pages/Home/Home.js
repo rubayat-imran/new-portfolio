@@ -48,7 +48,7 @@ function Home() {
               <h1 className="highlight-text main-header">Get in Touch</h1>
               <p className="main-copy">
                 {" "}
-                If you want to get in touch, call me at <strong class="highlight-text"><a href="tel:+8801732378414" class="c-custom-link">+8801732378414</a></strong> or send me an email.
+                If you want to get in touch, call me at <strong className="highlight-text"><a href="tel:+8801732378414" className="c-custom-link">+8801732378414</a></strong> or send me an email.
                 <br />
                 <strong className="highlight-text add-padding">Feel free to connect with me on social media.</strong>
               </p>
