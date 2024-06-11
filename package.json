@@ -1,6 +1,6 @@
 {
   "homepage" : "https://rubayat-imran.github.io",
-  "name": "imran-portfolio",
+  "name": "imran-react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
