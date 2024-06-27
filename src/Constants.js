@@ -1,6 +1,7 @@
 import SPA from "./Assets/Projects/spa.png";
 import EVENTSPA from "./Assets/Projects/event-spa.png";
 import LOANCALCULATOR from "./Assets/Projects/loan-calculator.png";
+import PLACEPICKER from "./Assets/Projects/place-picker.png";
 
 export const PROJECTS = [
   {
@@ -19,10 +20,18 @@ export const PROJECTS = [
     url: "https://www.tsb.co.uk/personal-loans/personal-loan-calculator.html",
   },
   {
+    image: PLACEPICKER,
+    name: "Place Picker App with React",
+    technologyUsed: "React, React Hooks, Javascript, Vite, Css",
+    description: `This is a Place Picker app built with React, React Hooks, and Vite. It allows users to add and remove places from predefined destinations in a fun and interactive way. The app leverages the browser's 'navigator' feature to sort locations based on the user's current location.
+    In this app, we demonstrate how to effectively manage side effects using the 'useEffect' and 'useCallback' hooks. By utilizing these hooks dependencies and callback functions, we ensure optimal performance and reactivity within the application.`,
+    url: "https://rubayat-imran.github.io/place-picker-app/",
+  },
+  {
     image: SPA,
     name: "Multipage SPA with React Router",
     technologyUsed: "ReactJs, Javascript, React Router",
-    description: "This project is a single-page application (SPA) built with React and React Router, enabling seamless navigation between multiple pages: a home page, an events page, and a newsletter subscription page. Users can add, edit, and delete events, as well as subscribe to the newsletter. The application uses React Router for smooth transitions between pages, providing a dynamic and responsive user experience..",
+    description: "This project is a single-page application (SPA) built with React and React Router, enabling seamless navigation between multiple pages: a home page, an events page, and a newsletter subscription page. Users can add, edit, and delete events, as well as subscribe to the newsletter. The application uses React Router for smooth transitions between pages, providing a dynamic and responsive user experience.",
     isBlog: true,
     url: "https://github.com/rubayat-imran/multipage-react-spa",
   }
